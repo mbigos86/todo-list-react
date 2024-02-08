@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# To Do List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Task-list info
+
+To Do List running by the React. 
+Enter the task to be performed in the first gap. Then press the "Dodaj zadanie" button. 
+The task will be available at the bottom of the page. The task can be checked, deleted or hidden.
+
+![homepage](public/td2.png)
+
+## Technologies Used
+
+- HTML 5
+- CSS 3
+- JavaScript
+- React
+- Create React App
+
+## Project Status
+
+Project is in progress
 
 ## Available Scripts
 
