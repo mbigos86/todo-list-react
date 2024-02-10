@@ -25,7 +25,7 @@ Project is in progress
 
 ## Author 
 
-Created by Szymon Brzozowski.
+Created by Mariusz Bigos.
 
 ## Available Scripts
 
