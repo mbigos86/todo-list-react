@@ -9,7 +9,7 @@ To Do List running by the React.
 Enter the task to be performed in the first gap. Then press the "Dodaj zadanie" button. 
 The task will be available at the bottom of the page. The task can be checked, deleted or hidden.
 
-![homepage](public/Images/td2.png)
+![homepage](./td2.png)
 
 ## Technologies used
 
