@@ -11,7 +11,7 @@ The task will be available at the bottom of the page. The task can be checked, d
 
 ![homepage](public/Images/td2.png)
 
-## Technologies Used
+## Technologies used
 
 - HTML 5
 - CSS 3
