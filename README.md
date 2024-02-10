@@ -23,6 +23,10 @@ The task will be available at the bottom of the page. The task can be checked, d
 
 Project is in progress
 
+## Author 
+
+Created by Szymon Brzozowski.
+
 ## Available Scripts
 
 In the project directory, you can run:
