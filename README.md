@@ -1,7 +1,7 @@
 # To Do List
 
 ## Demo
-[Website project](https://mbigos86.github.io/task-list/).
+[Website project](https://mbigos86.github.io/todo-list-react/).
 
 ## Task-list info
 
